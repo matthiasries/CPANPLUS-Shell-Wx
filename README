@@ -19,18 +19,18 @@ DEPENDENCIES
 
 This module requires these other modules and libraries:
 
-	CPANPLUS
-	Cwd
-	IPC::Cmd
-	Data::Dumper
-	Wx
-	Module::Load
-	Params::Check
-	Module::Load::Conditional
-	Locale::Maketext::Simple
-	File::Spec
-	File::HomeDir
-	Class::Struct
+    CPANPLUS
+    Cwd
+    IPC::Cmd
+    Data::Dumper
+    Wx
+    Module::Load
+    Params::Check
+    Module::Load::Conditional
+    Locale::Maketext::Simple
+    File::Spec
+    File::HomeDir
+    Class::Struct
 
 
 COPYRIGHT AND LICENCE
