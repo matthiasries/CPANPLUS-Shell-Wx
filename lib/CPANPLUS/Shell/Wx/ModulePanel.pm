@@ -11,8 +11,8 @@ our $AUTOLOAD;
 
 use Data::Dumper;
 use YAML qw/LoadFile Load/;
-use File::Spec;
-use File::Path;
+#use File::Spec;
+#use File::Path;
 use Storable;
 
 use threads;

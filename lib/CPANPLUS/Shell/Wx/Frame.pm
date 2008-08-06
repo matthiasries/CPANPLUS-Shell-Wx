@@ -16,7 +16,7 @@ use CPANPLUS::Shell::Wx::ModulePanel;
 use CPANPLUS::Shell::Wx::util;
 use CPANPLUS::Shell::Wx::PODReader;
 
-use File::Spec;
+#use File::Spec;
 
 #enable gettext support
 use Wx::Locale gettext => '_T';

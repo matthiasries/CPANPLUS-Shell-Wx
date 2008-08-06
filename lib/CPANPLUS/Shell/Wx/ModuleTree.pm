@@ -12,7 +12,7 @@ use Wx::ArtProvider qw/:artid :clientid/;
 use Data::Dumper;
 use YAML qw/LoadFile Load/;
 use File::Spec;
-use File::Path;
+#use File::Path;
 use Storable;
 
 use threads;
